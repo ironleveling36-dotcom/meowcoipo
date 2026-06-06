@@ -66,7 +66,7 @@ def payment_instructions(
         f"📸 Scan the QR code above OR transfer manually.\n"
         f"━━━━━━━━━━━━━━━━━━━━\n\n"
         f"⚠️ *Important:*\n"
-        f"• After payment, click 📸 *Upload Screenshot* (optional but faster approval)\n"
+        f"• After payment, click 📸 *Upload Screenshot* (Faster approval)\n"
         f"• Then click ✅ *I Have Paid*\n"
         f"• Orders expire in 30 minutes\n"
     )
