@@ -127,7 +127,7 @@ def help_msg() -> str:
         f"4️⃣ Submit payment proof\n"
         f"5️⃣ Receive items instantly after approval\n\n"
         f"*Having issues?*\n"
-        f"Contact our admin directly.\n\n"
+        f"Contact our admin directly @rockzzz1.\n\n"
         f"*Refund Policy:*\n"
         f"Invalid items will be replaced or refunded."
     )
